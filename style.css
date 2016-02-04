@@ -139,3 +139,23 @@ h1{
 	overflow: hidden;
 	background: white;
 }
+.knop{
+	width: 80px;
+	height: 80px;
+	background: #F04043;
+	border-radius: 80px; 
+	text-align: center;
+	color: white;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+	font-size: 2rem;
+	position: fixed;
+	overflow: hidden;
+	margin-top: 20px;
+
+}
+.knop a{
+	color: white;
+	padding: 24px;
+	display: block;
+	border-radius: 80px;
+}
