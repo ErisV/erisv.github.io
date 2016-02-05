@@ -151,7 +151,8 @@ min-width:960px;
 	font-size: 2rem;
 	position: fixed;
 	overflow: hidden;
-	margin-top: 20px;
+	left: 90%;
+	top: 90%;
 
 }
 .knop a{
